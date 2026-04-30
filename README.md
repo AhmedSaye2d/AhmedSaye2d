@@ -1,52 +1,62 @@
-<h1 align="center">Hi 👋, I'm Muhammad Mahmoud</h1>
-<h3 align="center">I'm Software Engineer | .Net Developer</h3>
+<h1 align="center">💫 𝑨𝒉𝒎𝒆𝒅 𝑴𝒐𝒉𝒂𝒎𝒆𝒅 💫</h1>
+<h3 align="center">Full Stack Software Engineer | Backend Engineer | (.NET, C#)</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Clean+Code+Enthusiast;Backend+Specialist;.NET+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 ---
 
 ### 🧠 About Me
-- 👨‍💻 I’m a passionate **Back-End Developer**.
-- 🎯 Currently learning and applying **Design Patterns** and **SOLID principles**.
-- 💡 Passionate about building clean, scalable, and maintainable backend systems.
-- ⚙️ Skilled in **C#**, **.NET Core**, **EF Core**, and **SQL Server**, and **API**.
-- 📚 Always striving to improve and explore new technologies.
+- 👨‍💻 I’m a passionate **Backend Developer**  
+- 🎯 Applying **Design Patterns** & **SOLID Principles**  
+- 💡 Love building scalable & maintainable systems  
+- ⚙️ Skilled in **C#**, **.NET Core**, **EF Core**, **SQL Server**, **REST APIs**  
+- 📚 Constantly learning & improving  
 
 ---
 
-### 🛠️ My Skills
+### 🛠️ Tech Stack
 
-#### 👨‍💻 Programming Languages  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+#### 👨‍💻 Languages  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-#### ⚙️ Back-End Development  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-ASP.NET-blueviolet?style=flat)
-![REST API](https://img.shields.io/badge/REST-API-lightgrey)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+#### ⚙️ Backend  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-6DB33F?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### 💻 Operating Systems  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+#### 💻 Systems  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhamad-Mahmoud&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhmmad-mahmoud)
-
----
-### 📊 GitHub Stats
-
-![Muhammad's GitHub stats](https://github-readme-streak-stats-eight.vercel.app?user=Muhamad-Mahmoud&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhmmad-mahmoud">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 🧠 Personal Skills
-- Fast Learning  
-- Adaptability  
-- Time Management  
-- Problem Solving  
-- Research & Planning
+- 🚀 Fast Learning  
+- 🔄 Adaptability  
+- ⏳ Time Management  
+- 🧩 Problem Solving  
+- 📊 Research & Planning  
 
 ---
