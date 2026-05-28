@@ -1,4 +1,4 @@
-<h1 align="center">💫 𝑨𝒉𝒎𝒆𝒅 𝑴𝒐𝒉𝒂𝒎𝒆𝒅 💫</h1>
+<h1 align="center">💫 𝑨𝒉𝒎𝒆𝒅 𝑴uhammad 💫</h1>
 <h3 align="center">Full Stack Software Engineer | Backend Engineer | (.NET, C# + Python)</h3>
 
 <p align="center">
