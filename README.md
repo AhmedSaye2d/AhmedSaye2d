@@ -1,3 +1,272 @@
+
+
+
+
+<h1 align="center">💫 𝑨𝒉𝒎𝒆𝒅 𝑴uhammad 💫</h1>
+<h3 align="center">Full Stack Software Engineer | Backend Engineer | (.NET, C# + Python)</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Clean+Code+Enthusiast;Backend+Specialist;.NET+Developer;Python+Learner;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
+
+---
+
+### 🧠 About Me
+- 👨‍💻 I’m a passionate **Backend Developer**  
+- 🎯 Applying **Design Patterns** & **SOLID Principles**  
+- 💡 Love building scalable & maintainable systems  
+- ⚙️ Skilled in **C#**, **Python**, **.NET Core**, **EF Core**, **SQL Server**, **REST APIs**  
+- 📚 Constantly learning & improving  
+
+---
+
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Languages  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### ⚙️ Backend  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-6DB33F?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### 💻 Systems  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhamad-Mahmoud&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-12mohamed/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect+-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🧠 Personal Skills
+- 🚀 Fast Learning  
+- 🔄 Adaptability  
+- ⏳ Time Management  
+- 🧩 Problem Solving  
+- 📊 Research & Planning  
+
+---عاوزك تعدل ةتخليه شكل عصرى وجميل يجذب الشركات 
+
+أنت تقصد قسم Pinned Projects / Featured Projects اللي بيظهر تحت الـ README في صفحة GitHub الرئيسية؟
+
+ده مش بيتكتب في README أصلاً.
+
+في GitHub فيه حاجتين مختلفتين:
+
+1. Profile README
+ده الملف اللي إحنا بنعدله (README.md) وبيظهر في أعلى الصفحة.
+
+2. Pinned Repositories ⭐
+وده قسم المشاريع اللي بيظهر تحته مباشرة بالشكل ده:
+
+Ahmed Mohamed
+--------------------------------
+
+README
+
+--------------------------------
+
+📌 Examify
+📌 Ecommerce API
+📌 Inventory Management
+📌 School Management System
+📌 Chat Application
+📌 ...
+الشركات غالبًا بتبص عليه أكتر من الـ README نفسه.
+
+ازاى تضيف المشاريع المثبتة؟
+ادخل صفحة GitHub الرئيسية.
+
+اضغط Customize your pins.
+
+اختار أفضل 6 مشاريع عندك.
+
+اضغط Save Pins.
+
+أفضل ترتيب ليك كـ Backend Developer
+📌 Examify API
+
+📌 E-Commerce API
+
+📌 Inventory Management System
+
+📌 Authentication & Authorization API
+
+📌 Clean Architecture Template
+
+📌 Design Patterns Examples
+
+لو لسه معندكش مشاريع كتير
+اعمل Repository باسم:
+
+DesignPatterns-CSharp
+
+SOLID-Principles
+
+LINQ-Practice
+
+EFCore-Learning
+
+ASP.NET-Core-API
+
+حتى لو مشاريع تعليمية، هتدي انطباع إنك شغال باستمرار.
+
+ترتيب الصفحة الاحترافي
+[ Banner ]
+
+Ahmed Mohamed
+Backend Engineer
+
+README
+
+Pinned Projects (6)
+
+GitHub Contributions
+
+Repositories
+وده الشكل اللي أغلب الشركات بتحبه لأنها تقدر تشوف:
+
+أنت مين؟
+
+بتعرف إيه؟
+
+عملت إيه فعلًا؟ (المشاريع المثبتة)
+
+مدى نشاطك على GitHub
+
+لو تبعتلي لينك GitHub بتاعك أو أسماء الـ Repositories الموجودة عندك، أقولك بالترتيب أنهي 6 مشاريع تثبتهم وأيهم تخفيه.
+
+
+
+Pasted markdown.md
+File
+ زة لل موجود هنا 
+
+أيوة فهمت قصدك 😅
+
+أنت تقصد الجزء اللي بيبقى جوه الـ README نفسه زى كده:
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📚 Examify
+Online Examination System
+
+- ASP.NET Core
+- EF Core
+- SQL Server
+- JWT
+
+</td>
+
+<td width="50%">
+
+### 🛒 E-Commerce API
+Backend API for E-Commerce
+
+- ASP.NET Core
+- Clean Architecture
+- Repository Pattern
+
+</td>
+</tr>
+</table>
+فيظهر بشكل كروت:
+
+Examify	Ecommerce API
+وصف المشروع	وصف المشروع
+أو الشكل الأفخم اللى الناس بتستخدمه:
+
+## 🌟 Featured Projects
+
+<a href="رابط المشروع">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Examify&theme=tokyonight" />
+</a>
+
+<a href="رابط المشروع">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=EcommerceAPI&theme=tokyonight" />
+</a>
+فيظهر بالشكل ده:
+
+┌─────────────────────┐
+│ 📌 Examify          │
+│ Stars • Forks       │
+│ Description         │
+└─────────────────────┘
+
+┌─────────────────────┐
+│ 📌 Ecommerce API    │
+│ Stars • Forks       │
+│ Description         │
+└─────────────────────┘
+وده بصراحة أحلى شكل حاليًا لمعظم مطورين GitHub.
+
+لو معندكش مشاريع جاهزة
+متحطش القسم ده خالص.
+
+لو عندك Examify فقط
+حط:
+
+## 🌟 Featured Project
+
+<a href="https://github.com/USERNAME/Examify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Examify&theme=tokyonight" />
+</a>
+لو عندك 4 مشاريع
+حط:
+
+## 🌟 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/USERNAME/Examify">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Examify&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/USERNAME/EcommerceAPI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=EcommerceAPI&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/USERNAME/InventorySystem">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=InventorySystem&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/USERNAME/CleanArchitecture">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=CleanArchitecture&theme=tokyonight" />
+</a>
+
+</p>
+وده بيخلى الـ README شكله Premium فعلًا.
+
+ابعتلى لينك GitHub بتاعك أو أسماء الـ Repositories وأنا أجهزلك README كامل بالشكل الحديث مع قسم Projects مرتب وجاهز للنسخ مباشرة.
+
+
+اكتب الكود
+
+أكيد، ده كود README حديث ومرتب وفيه قسم Featured Projects جاهز، كل اللي عليك تغير YOUR_USERNAME واسم الـ Repository:
+
 <div align="center">
 
 # Ahmed Mohamed 👋
@@ -138,3 +407,10 @@ public class AhmedMohamed
 ### 💡 Always Learning • Always Building • Always Improving
 
 </div>
+مهم: لو اسم GitHub بتاعك مثلًا Muhamad-Mahmoud استبدل كل YOUR_USERNAME بـ:
+
+Muhamad-Mahmoud
+وساعتها كروت المشاريع والإحصائيات هتشتغل تلقائيًا.
+
+
+
