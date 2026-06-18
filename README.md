@@ -20,7 +20,7 @@ I'm a passionate Backend Engineer focused on building scalable, maintainable, an
 - 🗄️ Working with SQL Server & Entity Framework Core
 - 🧠 Interested in Clean Architecture & System Design
 - 📚 Constantly learning and improving my skills
-- 🌱 Currently learning Advanced ASP.NET Core & Microservices
+- 🌱 Currently learning Advanced ASP.NET Core, Microservices, and Cloud Technologies
 
 ---
 
@@ -32,7 +32,7 @@ I'm a passionate Backend Engineer focused on building scalable, maintainable, an
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Backend
+### Backend Development
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-7A43B6?style=for-the-badge)
@@ -44,7 +44,7 @@ I'm a passionate Backend Engineer focused on building scalable, maintainable, an
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Tools
+### Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -58,114 +58,55 @@ I'm a passionate Backend Engineer focused on building scalable, maintainable, an
 
 ---
 
-## 🌟 Featured Projects
-
-### 📝 Examify
-
-Online Examination Management System built with ASP.NET Core Web API.
-
-#### Features
-
-- Authentication & Authorization using JWT
-- Question Management
-- Exam Creation
-- Student Exam Submission
-- Results & Reporting
-- Swagger Documentation
-
-#### Technologies
-
-`ASP.NET Core` `EF Core` `SQL Server` `JWT` `Repository Pattern` `Clean Architecture`
-
-🔗 Live Demo: https://examify.runasp.net
-
-🔗 API Documentation:
-https://examify.runasp.net/swagger/index.html
-
-🔗 Repository:
-Add Your Repository Link
-
----
-
-### 📦 Inventory Management System
-
-A complete inventory management solution.
-
-#### Features
-
-- Product Management
-- Categories Management
-- Stock Tracking
-- Reports & Analytics
-- User Authentication
-
-#### Technologies
-
-`ASP.NET Core` `SQL Server` `EF Core`
-
-🔗 Repository:
-Add Repository Link
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Muhamad-Mahmoud&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamad-Mahmoud&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Muhamad-Mahmoud&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 Professional Skills
+## 🏆 Core Competencies
 
-✅ Object-Oriented Programming (OOP)
-
-✅ SOLID Principles
-
-✅ Design Patterns
-
-✅ Clean Architecture
-
-✅ Repository Pattern
-
-✅ Dependency Injection
-
-✅ RESTful APIs
-
-✅ Entity Framework Core
-
-✅ LINQ
-
-✅ Authentication & Authorization
-
-✅ Problem Solving
+- Object-Oriented Programming (OOP)
+- SOLID Principles
+- Design Patterns
+- Clean Architecture
+- Repository Pattern
+- Dependency Injection
+- RESTful APIs
+- Entity Framework Core
+- LINQ
+- Authentication & Authorization
+- Problem Solving
+- Database Design
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced ASP.NET Core
-- Microservices Architecture
+- Microservices
 - Docker
 - Kubernetes
 - System Design
-- Cloud Fundamentals
+- Cloud Computing
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Objective
 
-Seeking opportunities as a Backend Engineer where I can contribute to building scalable systems, improve software quality, and continuously grow as a Software Engineer.
+Aspiring Backend Engineer with a strong foundation in .NET technologies, software design principles, and database development. Passionate about building reliable software solutions and continuously expanding technical expertise.
 
 ---
 
@@ -183,6 +124,6 @@ Seeking opportunities as a Backend Engineer where I can contribute to building s
 
 <div align="center">
 
-### ⭐ If you like my work, don't forget to star my repositories.
+⭐ Always learning, building, and improving.
 
 </div>
